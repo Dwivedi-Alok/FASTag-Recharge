@@ -1,0 +1,45 @@
+{
+  "summary": {
+    "totalBalance": 2180,
+    "totalCredit": 2300,
+    "totalDebit": 625 
+  },
+  "transactions": [
+    { 
+      "id": 1, 
+      "type": "credit", 
+      "amount": 500, 
+      "description": "Added to wallet via UPI", 
+      "date": "2025-10-29", 
+      "time": "10:30 AM", 
+      "status": "completed" 
+    },
+    { 
+      "id": 2, 
+      "type": "debit", 
+      "amount": 150, 
+      "description": "FASTag Recharge - MH12AB1234", 
+      "date": "2025-10-28", 
+      "time": "03:45 PM", 
+      "status": "completed" 
+    },
+    { 
+      "id": 3, 
+      "type": "credit", 
+      "amount": 1000, 
+      "description": "Added to wallet via UPI", 
+      "date": "2025-10-27", 
+      "time": "09:15 AM", 
+      "status": "completed" 
+    },
+    {
+      "id": 8, 
+      "type": "debit", 
+      "amount": 100, 
+      "description": "FASTag Recharge - TN22XY3456", 
+      "date": "2025-10-22", 
+      "time": "10:00 AM", 
+      "status": "failed" 
+    }
+  ]
+}
