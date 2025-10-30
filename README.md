@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🚗 **FASTag Recharge**
 
 A **modern web application** built with **React 19**, **Vite 7**, and **Tailwind CSS v4** that enables users to recharge FASTags, check balances, and estimate tolls — all enhanced with **AI-powered assistance**.
